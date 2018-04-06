@@ -3,6 +3,6 @@ public class Hello {
 	
 public static displayHelloMessage(String message) {
 	message = "hi";
-return message;
+	return message;
 }
 }
